@@ -5,8 +5,8 @@
 #   brew install --cask netpack/xfb/xfb
 # (or: brew tap netpack/xfb && brew install --cask xfb)
 cask "xfb" do
-  version "3.1422"
-  sha256 "6afda5b52c34fa9d04a00ca0c62ceadfe8c2c9ca27fdc6908a42cca7cf7b385b"
+  version "3.1423"
+  sha256 "a681ddb4c0ba020e57377199b2d9f32ed8a048632101038d5a413247cf15503b"
 
   url "https://github.com/netpack/XFB/releases/download/v#{version}/XFB-#{version}-macOS.dmg"
   name "XFB"
